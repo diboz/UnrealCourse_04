@@ -1,4 +1,4 @@
-# UnrealCourse_04: Battle Tank
+# Unreal Course 04: Battle Tank
 ****
 
 Implementation of an open world fps tank battle game with simple AI, terrain and advanced controls in Unreal 4.
